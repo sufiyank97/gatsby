@@ -892,7 +892,7 @@ input[type="submit"] {
 
 .top-container {
 	position: relative;
-	background: url(../images/bg.png) no-repeat;
+	background: url('/images/about/bg.png') no-repeat;
 	background-size: 100% 100%;
 	overflow: hidden;
 }
@@ -3629,7 +3629,7 @@ a {
 
 @media (max-width: 1399px) {
 	.top-container.style01 .visual-image {
-		width: 46.3%;
+		width: 38.3%;
 	}
 
 	.visual-caption {
@@ -3637,7 +3637,7 @@ a {
 	}
 
 	.visual-image {
-		width: 49.3%;
+		width: 38.3%;
 	}
 
 	.aboutus-section .description {
